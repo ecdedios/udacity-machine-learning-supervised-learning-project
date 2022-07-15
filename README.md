@@ -12,12 +12,6 @@ census.csv
 
 - [Udacity - Data Scientist Github](https://github.com/udacity/DSND_Term1))
 
-## Questions
-
-1. [placeholder]
-1. [placeholder]
-1. [placeholder]
-
 ## Project Structure
 
 - data
@@ -25,6 +19,7 @@ census.csv
   - inter - contains modified data
   - out - contains output report-ready data
 - docs
+- \*\*\*\*\*\*\*\*\*\* finding_donors - contains project files per Udacity instructions \*\*\*\*\*\*\*\*\*\*
 - notebooks
 
 ## Meta
