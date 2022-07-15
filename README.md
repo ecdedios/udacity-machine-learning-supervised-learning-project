@@ -20,7 +20,7 @@ census.csv
 
 ## Project Structure
 
-- data (\*\*\*Note: all csv files are omitted in the repo)
+- data
   - in - contains the original data sources
   - inter - contains modified data
   - out - contains output report-ready data
